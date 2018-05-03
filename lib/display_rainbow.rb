@@ -9,7 +9,7 @@ def display_rainbow(colors)
   colors[4]
   colors[5]
   colors[6]
-  puts "R:#{colors{0}"
+  puts ("R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet")
      
 end
   
